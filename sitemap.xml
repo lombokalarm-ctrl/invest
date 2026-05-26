@@ -100,4 +100,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://invest.lombokadvisor.com/blog/agriculture-investment-lombok-guide-for-long-term-investors.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://invest.lombokadvisor.com/blog/how-to-evaluate-productive-land-in-lombok-for-agriculture-investment.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://invest.lombokadvisor.com/blog/foreign-investment-agriculture-indonesia-what-lombok-investors-should-prepare.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
