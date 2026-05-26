@@ -85,4 +85,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://invest.lombokadvisor.com/blog/mengapa-investasi-di-lombok-menarik-untuk-investor-jangka-panjang.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://invest.lombokadvisor.com/blog/cara-menilai-lahan-produktif-di-lombok-untuk-investasi-agribisnis.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://invest.lombokadvisor.com/blog/apa-yang-perlu-investor-asing-pahami-sebelum-masuk-ke-investasi-agribisnis-di-lombok.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
